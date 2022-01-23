@@ -6,6 +6,6 @@
 #lets start with printing some text
 print("Hello word") # first code of my life
 
-print("To comment, Just type # in the starting of line but for multiple lines you can apply ''' on the beginningbqnd ending of lines")
+print("To comment, Just type # in the starting of line but for multiple lines you can apply ''' in the beginning ending of lines")
 
 # i got to learn about what is python, modules, pip, comments
