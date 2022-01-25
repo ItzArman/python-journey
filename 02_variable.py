@@ -37,7 +37,11 @@ print("you entered " + number)
 #assignment operators
 a = 34
 a += 12 # += will add 12 in 34
-print(a) 
+print(a)
+
+# comparison operator
+h = (13>=34)
+print(h) # if 13 is greater than 34 or equal then it will print true else false
 
 #my simple calculator for addition
 print("enter your first number")
