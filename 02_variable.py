@@ -34,7 +34,7 @@ print("Enter your number")
 number = input()
 print("you entered " + number)
 
-#calculator shortcut
+#assignment operators
 a = 34
 a += 12 # += will add 12 in 34
 print(a) 
